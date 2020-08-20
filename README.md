@@ -1,6 +1,6 @@
 # Demo Project README
 
-This is a simple readme file
+This is a logical readme file
 
 ## Heading 2
 
